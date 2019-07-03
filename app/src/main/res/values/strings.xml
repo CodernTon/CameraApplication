@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">application_v1</string>
+    <string name="choose_picture">Choose picture</string>
+    <string name="manual_search">Manual search</string>
+    <string name="open_camera">Open camera</string>
+    <string name="take_picture">Take picture</string>
+    <string name="close_camera">Close camera</string>
+    <string name="textview">TextView</string>
+    <string name="go_back">Go back</string>
+</resources>
